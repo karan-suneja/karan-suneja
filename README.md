@@ -1,4 +1,5 @@
-<h1 align="center">Hi, I'm Karan👋</h1> <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h1 align="center">Hi, I'm Karan👋</h1>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <h3 align="center">I have a Passion for making Cool Projects For Fun.</h3>
 
 - 🔭 I’m currently working on **a cool project**
