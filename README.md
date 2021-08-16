@@ -2,8 +2,6 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <h3 align="left">I have a Passion for making Cool Projects For Fun.</h3>
 
-- 🔭 I’m currently working on **a cool project**
-
 - 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **karansuneja14@gmail.com**
