@@ -1,5 +1,5 @@
 <h1 align="left">
-  Hi, I'm Karan👋
+  Hi, I'm Karan👋<br>
   I have a Passion for making Cool Projects For Fun.
 </h1>
 
