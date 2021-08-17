@@ -1,5 +1,7 @@
-<h1 align="left">Hi, I'm Karan👋
-<h3>I have a Passion for making Cool Projects For Fun.</h3></h1>
+<h1 align="left">
+  Hi, I'm Karan👋
+  <h3>I have a Passion for making Cool Projects For Fun.</h3>
+</h1>
 
 
 - 🌱 I’m currently learning **Machine Learning**
