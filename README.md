@@ -1,6 +1,6 @@
 <h1 align="left">
   Hi, I'm Karan👋
-  <h3>I have a Passion for making Cool Projects For Fun.</h3>
+  I have a Passion for making Cool Projects For Fun.
 </h1>
 
 
