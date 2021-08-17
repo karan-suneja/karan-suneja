@@ -1,5 +1,4 @@
 <h1 align="left">Hi, I'm Karan👋</h1>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <h3 align="left">I have a Passion for making Cool Projects For Fun.</h3>
 
 - 🌱 I’m currently learning **Machine Learning**
