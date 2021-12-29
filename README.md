@@ -6,7 +6,6 @@
 
 - 📫 How to reach me **karansuneja14@gmail.com**
 
-- ⚡ Fun fact **I love the Rocky Series🥊**
 
 
 <p>
