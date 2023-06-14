@@ -1,8 +1,8 @@
 <h1 align="left">Hi, I'm Karan👋</h1>
-<h3>I have a Passion for making Cool Projects For Fun.</h3>
+<h3>I have a Passion for working with Data & making Cool Projects.</h3>
 
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning to be a **Data Scientist**
 
 - 📫 How to reach me **karansuneja14@gmail.com**
 
