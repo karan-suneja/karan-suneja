@@ -2,7 +2,7 @@
 <h3>I have a Passion for working with Data & making Cool Projects.</h3>
 
 
-- 🌱 I’m currently learning to be a **Data Scientist**
+- 🌱 I’m currently learning to be a **Data Analyst**
 
 - 📫 How to reach me **karansuneja14@gmail.com**
 
