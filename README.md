@@ -1,5 +1,13 @@
 # 💫 About Me:
-I have a Passion for working with Data & making Cool Projects.
+👋 Hi there! I'm Karan Suneja, a passionate data enthusiast based in New Delhi, India. With a Bachelor's degree in Computer Applications from Fairfield Institute of Management & Technology, I've honed my skills in Python, SQL, Excel, BI Tools and more.
+
+🚀 In my recent projects, I've delved into the world of data analysis and visualization, leveraging tools like Power BI, Python libraries like Pandas and NumPy, and machine learning models for predictive analytics. One of my standout projects includes conducting a thorough LinkedIn Jobs Analysis, scraping and analyzing 500+ job listings to drive data-driven insights.
+
+💻 Additionally, I've developed a finance web application called "Wall-Street Exchange" using Streamlit and Python, integrating APIs for stock and cryptocurrency data analysis and prediction. 
+
+📈 My approach combines technical expertise with a focus on user experience, as seen in my work on creating intuitive dashboards and interactive components for data exploration.
+
+🎓 Apart from hands-on projects, I've earned certifications like the IBM Data Analyst Professional Certificate, equipping me with analytical tools and soft skills for effective stakeholder collaboration.
 
 
 ## 🌐 Socials:
